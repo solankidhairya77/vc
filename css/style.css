@@ -1,0 +1,50 @@
+.bdr {
+    font-size: large;
+    color: blue;
+    background-color: chocolate;
+    font-family: fantasy;
+    height: 100px;
+}
+
+.arow
+{
+    border: 10px solid violet;
+}
+
+.a
+{
+    background-color: blue;
+}
+.b
+{
+    background-color: purple;
+}
+
+.c
+{
+    background-color:green;
+}
+
+.d
+{
+    background-color: yellow;
+}
+.e
+{
+    background-color: orange;
+}
+
+.f
+{
+    background-color:red;
+}
+
+.g
+{
+    background-color: rgb(161, 68, 68);
+}
+
+.h
+{
+    background-color: rgb(138, 91, 91);
+}

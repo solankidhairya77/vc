@@ -1,0 +1,99 @@
+.background{
+    background-color: whitesmoke;
+    width: 1000px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+}
+
+.title1{
+    display: flex;
+    justify-content: center;
+}
+
+
+.title2{
+    display: flex;
+}
+
+.title2 div{
+    display: flex;
+    justify-content: center;
+}
+
+.title3 p{
+    font-size: larger;
+}
+
+.title4{
+    display: flex;
+}
+
+.title5{
+    display: flex;
+    justify-content: flex-end ;
+    color: rgb(69, 69, 212);
+}
+
+
+.title6 a{
+    display: flex;
+    justify-content: center;
+    color: rgb(231, 100, 122);
+}
+
+.title7{
+    display: flex;
+    justify-content: flex-start;
+    color: red;
+}
+
+
+.title8{
+    display: flex;
+    padding-top: 150px;
+}
+
+.title9{
+    display: flex;
+    justify-content: center;
+    color: rgb(48, 81, 97);
+}
+
+.title10 a{
+    display: flex;
+    justify-content: center;
+    color: rgb(131, 204, 22);
+}
+
+.title11{
+    display: flex;
+    justify-content: center;
+    color: rgb(190, 202, 16);
+}
+
+.title12{
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 122, 13);
+}
+
+.navbar {
+justify-content: center;
+display: flex;
+background-color: white;
+margin: 0px 180px;
+border-radius: 10px;
+position: sticky;
+}
+
+.nav-item a{
+    color: black;
+    font-size: x-large;
+    
+}
+

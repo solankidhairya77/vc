@@ -5,6 +5,13 @@
     border-radius: 10px;
 }
 
+.backgrounde{
+    background-color: whitesmoke;
+    width: 1000px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
 .title{
     display: flex;
     align-items: center;
@@ -86,7 +93,7 @@
 justify-content: center;
 display: flex;
 background-color: white;
-margin: 0px 180px;
+margin: 0px 200px;
 border-radius: 10px;
 position: sticky;
 }
@@ -97,3 +104,27 @@ position: sticky;
     
 }
 
+.title13{
+    display: flex;
+}
+
+.title14{
+    display: flex;
+    font-size: xx-large;
+    padding: 20px 50px;
+    font-family: fantasy;
+}
+
+.title15{
+    display: flex;
+    font-size: larger;
+    padding: 20px 50px;
+    
+}
+
+.title16{
+    display: flex;
+    font-size: large;
+    padding: 20px 50px;
+    
+}
